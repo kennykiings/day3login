@@ -1,0 +1,37 @@
+.top {  margin: 10px auto; 
+       width: 100%;
+       background-image: linear-gradient(to bottom right, #eb3434, #ff0000);
+       background-size: 700px;
+       padding-left: 60px; 
+       padding-right: 60px;
+       padding-bottom: 10px;
+       padding-top: 10px;}
+
+.sign { margin: 20px auto;
+     width: 75%; 
+     max-width: 700px;
+     font-family: Source Sans Pro;
+     background-size: 50%;
+     background-position: 25% 25%;
+     color:#212529;
+ }
+
+input { width:70%;}
+#butt {width:10%; background-color: gray;}
+
+input {
+    margin: .1rem;}
+
+.pass {
+    margin-top: 0.001rem;
+    margin-bottom: 0.001rem;}
+
+ #butt:hover { background-image: linear-gradient(to bottom right, #eb3434, #ff0000);}
+ body {color: #212529;
+        background-color: #dadce6;}
+ form {color: #212529;}
+ .logintop{  color: #212529}
+
+
+
+
